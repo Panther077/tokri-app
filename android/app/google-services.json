@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297849799066",
+    "project_id": "tokri-6146f",
+    "storage_bucket": "tokri-6146f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297849799066:android:1709c7e43a8c1b2e06ba23",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJuGJbAZkj2GKNc4fTPy6DvKu4aVgK_zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297849799066:android:114dcf62e07e8ff406ba23",
+        "android_client_info": {
+          "package_name": "com.tokri.tokri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJuGJbAZkj2GKNc4fTPy6DvKu4aVgK_zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
